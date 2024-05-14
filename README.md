@@ -1,7 +1,9 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+there👋;This+is+Zhuoran+Li!)](https://git.io/typing-svg)
 
-Welcome to my Github page! I am a MS student in Computer Science at Northeastern University.  
+Welcome to my Github page! 
+
+I am a MS student in Computer Science at Northeastern University.  
 
  
 #### 🔭 Things I am currently working on: 
